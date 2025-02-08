@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **my portfolio web in FLUTTER**
 
-- 🌱 I’m currently learning **Laravel and Php**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Flutter, Dart and Firebase**
 
