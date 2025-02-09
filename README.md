@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Flutter, Dart and Firebase**
+- 💬 Ask me about **Flutter, Dart and Firebase and Fast Food**
 
 - 📫 How to reach me **ahmadasghar.appdev@gmail.com**
 
