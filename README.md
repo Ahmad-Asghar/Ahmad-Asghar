@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Asghar</h1>
-<h3 align="center">A Flutter App Developer from Pakistan</h3>
+<h3 align="center">A Mobile App Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-asghar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-asghar" /> </p>
 
