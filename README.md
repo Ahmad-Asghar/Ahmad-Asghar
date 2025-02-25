@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **my portfolio web in FLUTTER**
+- 🔭 I’m currently working on **my portfolio Web in FLUTTER**
 
 - 🌱 I’m currently learning **Web Development using Flutter**
 
