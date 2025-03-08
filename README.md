@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmad Asghar</h1>
-<h3 align="center">A Flutter Mobile App Developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-asghar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-asghar" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-asghar&row=1&margin-w=10&no-bg=true&no-frame=true&theme=algolia&title=Stars,Repositories,Commits,Followers,Experience" alt="GitHub Trophies" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-asghar" alt="ahmad-asghar" /></a> </p>
 
+- 🔭 I’m currently working on [my portfolio web in FLUTTER](https://ahmadasghar.netlify.app)
 
-- 🔭 I’m currently working on **building my portfolio Web in FLUTTER**
+- 🌱 I’m currently learning **Laravel and Php**
 
-- 🌱 I’m currently learning **Web Development using Flutter and its really amazing**
+- 👨‍💻 Want to check my portfolio - Visit [https://ahmadasghar.netlify.app](https://ahmadasghar.netlify.app)
 
-- 💬 Ask me about **Flutter, Dart and Firebase and Fast Food**
+- 💬 Ask me about **Flutter, Dart and Firebase and Fast Foood**
 
 - 📫 How to reach me **ahmadasghar.appdev@gmail.com**
 
