@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-asghar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-asghar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-asghar" alt="ahmad-asghar" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-asghar&theme=onestar&no-frame=true&column=5&title=Stars,Repositories,Commits,Followers,Experience" alt="GitHub Trophies" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [my portfolio web in FLUTTER](https://ahmadasghar.netlify.app)
 
