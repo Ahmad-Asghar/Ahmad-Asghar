@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on [my portfolio web in FLUTTER](https://ahmadasghar.netlify.app)
 
+- 💬 Ask me about **Flutter, Dart and Firebase and Fast Foood**
+
 - 🌱 I’m currently learning **flutter clean code architecture and cooking pizzaa**
 
 - 👨‍💻 Want to check my portfolio - Visit [https://ahmadasghar.netlify.app](https://ahmadasghar.netlify.app)
-
-- 💬 Ask me about **Flutter, Dart and Firebase and Fast Foood**
 
 - 📫 How to reach me **ahmadasghar.appdev@gmail.com**
 
