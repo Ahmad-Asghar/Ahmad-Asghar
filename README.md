@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [my portfolio web in FLUTTER](https://ahmadasghar.netlify.app)
 
-- 🌱 I’m currently learning **Laravel and Php**
+- 🌱 I’m currently learning **flutter clean code architecture and cooking pizzaa**
 
 - 👨‍💻 Want to check my portfolio - Visit [https://ahmadasghar.netlify.app](https://ahmadasghar.netlify.app)
 
