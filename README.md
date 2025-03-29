@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [my portfolio web in FLUTTER](https://ahmadasghar.netlify.app)
+- 🔭 I’m currently working on [my portfolio web in Flutter](https://ahmadasghar.netlify.app)
 - 💬 Ask me about **Flutter, Dart, Firebase, and Fast Food**
 - 🌱 I’m currently learning **Flutter clean code architecture and cooking pizza**
 - 👨‍💻 Want to check my portfolio? - Visit [ahmadasghar.netlify.app](https://ahmadasghar.netlify.app)
