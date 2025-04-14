@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [my portfolio web in Flutter](https://ahmadasghar.netlify.app)
+- 🔭 I’m currently working on [my portfolio web in Flutter](https://ahmadasghar.vercel.app)
 - 💬 Ask me about **Flutter, Dart, Firebase, and Fast Food**
 - 🌱 I’m currently learning **Flutter clean code architecture and cooking pizza**
-- 👨‍💻 Want to check my portfolio? - Visit [ahmadasghar.netlify.app](https://ahmadasghar.netlify.app)
+- 👨‍💻 Want to check my portfolio? - Visit [ahmadasghar.vercel.app](https://ahmadasghar.vercel.app)
 - 📫 How to reach me: **ahmadasghar.appdev@gmail.com**
 
 <h3 align="left" style="color:#9d83b9;">Connect with me:</h3>
